@@ -16,7 +16,7 @@ Understanding how to use CSS Grid and Flexbox for responsive design
 
 🚀 How to Use
 1.Clone the repository:
-git clone https://github.com/yourusername/Beginner-Level-Web-Page-using-HTML-and-CSS.git
+git clone [https://github.com/yourusername/Beginner-Level-Web-Page-using-HTML-and-CSS.git](https://github.com/Aruna456/Beginner-Level-Web-Page-using-HTML-and-CSS)
 
 2.Navigate to the project directory:
 cd Beginner-Level-Web-Page-using-HTML-and-CSS
@@ -25,10 +25,10 @@ cd Beginner-Level-Web-Page-using-HTML-and-CSS
 
 📚 Learning Resources
 If you're new to web development, here are some resources that might help:
-HTML Documentation
-CSS Documentation
-Flexbox Guide
-Grid Layout Guide
+HTML Documentation:https://developer.mozilla.org/en-US/docs/Web/HTML
+CSS Documentation:https://developer.mozilla.org/en-US/docs/Web/CSS
+Flexbox Guide:https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Grid Layout Guide:https://css-tricks.com/snippets/css/complete-guide-grid/
 
 🤝 Contributing
 This project is intended for practice, but contributions are welcome. If you have suggestions for improvement or additional features, feel free to open an issue or submit a pull request.
