@@ -16,7 +16,7 @@ Understanding how to use CSS Grid and Flexbox for responsive design
 
 🚀 How to Use
 1.Clone the repository:
-git clone [https://github.com/yourusername/Beginner-Level-Web-Page-using-HTML-and-CSS.git](https://github.com/Aruna456/Beginner-Level-Web-Page-using-HTML-and-CSS)
+git clone:(https://github.com/Aruna456/Beginner-Level-Web-Page-using-HTML-and-CSS)
 
 2.Navigate to the project directory:
 cd Beginner-Level-Web-Page-using-HTML-and-CSS
